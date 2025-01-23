@@ -26,5 +26,5 @@ To analyze reviews from Google and Indeed to uncover recurring themes and sentim
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Word-Frequency-Analysis.git
+   git clone https://github.com/ramrajinal/Word-Frequency-Analysis.git
 
