@@ -1,5 +1,3 @@
-# Word-Frequency-Analysis
-
 # Word Frequency Analysis of Google and Indeed Reviews
 
 ## Objective
